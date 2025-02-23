@@ -20,7 +20,6 @@ This project demonstrates AI risk management practices by:
 │── 📄 model_drift.py                   # Python script for detecting model drift
 │── 📄 README.md                        # Documentation (this file)
 │── 📄 requirements.txt                 # Required Python libraries
----
 
 ## **🛠 Setup Instructions**
 ### **1️⃣ Clone the Repository**
