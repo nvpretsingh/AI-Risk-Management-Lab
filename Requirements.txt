@@ -1,0 +1,43 @@
+# Requirements.txt for AI Risk Management Lab
+
+Below is the list of required Python libraries for running the AI Risk Management Lab in Jupyter Notebook and standalone scripts.
+
+## **📌 Install Dependencies**
+Run the following command to install all required packages:
+```bash
+pip install -r requirements.txt
+```
+
+### **🔹 Required Libraries**
+```
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+cryptography
+jupyter
+notebook
+```
+
+### **🔹 Explanation of Dependencies**
+| **Package**          | **Purpose** |
+|---------------------|------------|
+| numpy              | Numerical computations |
+| pandas             | Data manipulation |
+| scikit-learn       | Machine learning models |
+| matplotlib         | Data visualization |
+| seaborn            | Statistical plots |
+| cryptography       | Data encryption |
+| jupyter            | Jupyter Notebook support |
+| notebook           | Notebook execution |
+
+### **🚀 Optional Enhancements**
+If you plan to extend the project for deployment, consider adding:
+```
+boto3  # AWS SDK for Python
+sagemaker  # AWS SageMaker Integration
+```
+
+This file ensures all required dependencies are installed for running the AI Risk Management Lab smoothly.
+
