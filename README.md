@@ -11,19 +11,76 @@ This project demonstrates AI risk management practices by:
 - **Monitoring Model Drift for Continuous AI Risk Assessment**
 
 ## **📂 Repository Structure**
+```
 📂 AI-Risk-Management-Lab
-│── 📄 AI_Risk_Management_Lab.ipynb     # Jupyter Notebook with full implementation
-│── 📄 train_model.py                   # Python script for training AI model
-│── 📄 bias_detection.py                # Python script for bias analysis
-│── 📄 adversarial_attack.py            # Python script for adversarial testing
-│── 📄 data_encryption.py               # Python script for AI data encryption
-│── 📄 model_drift.py                   # Python script for detecting model drift
+│── 📄 AI_Risk_Management_Lab.ipynb   # Jupyter Notebook with full implementation and documentation
+│── 📄 train_model.py                 # Python script for training AI model
+│── 📄 bias_detection.py               # Python script for bias analysis
+│── 📄 adversarial_attack.py           # Python script for adversarial testing
+│── 📄 data_encryption.py              # Python script for AI data encryption
+│── 📄 model_drift.py                  # Python script for detecting model drift
+│── 📄 evaluate_bias.py                 # Python script for evaluating bias in predictions
+│── 📄 simulate_ai_governance.py       # Python script for AI governance simulation
+│── 📄 load_sample_dataset.py          # Python script for loading dataset
 │── 📄 README.md                        # Documentation (this file)
 │── 📄 requirements.txt                 # Required Python libraries
+```
+
+---
 
 ## **🛠 Setup Instructions**
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Risk-Management-Lab.git
 cd AI-Risk-Management-Lab
+```
+
+### **2️⃣ Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+### **3️⃣ Run the Jupyter Notebook**
+```bash
+jupyter notebook
+```
+Then, open `AI_Risk_Management_Lab.ipynb` and execute each cell step by step.
+
+### **4️⃣ Run Individual Python Scripts**
+You can also run specific risk analysis scripts:
+```bash
+python train_model.py
+python bias_detection.py
+python adversarial_attack.py
+python data_encryption.py
+python model_drift.py
+python evaluate_bias.py
+python simulate_ai_governance.py
+python load_sample_dataset.py
+```
+
+---
+
+## **📊 AI Risk Management Components**
+| **Risk Area**              | **Python Implementation**          | **AWS Equivalent Service** |
+|---------------------------|--------------------------------|--------------------------|
+| **AI Governance**         | Role-based access simulation   | AWS IAM, CloudTrail       |
+| **Bias Detection**        | Fraud data imbalance analysis  | SageMaker Clarify        |
+| **Adversarial Attacks**   | Input modification test       | AWS WAF, GuardDuty       |
+| **Data Privacy**          | AI data encryption            | AWS Macie, AWS KMS       |
+| **Model Monitoring**      | Model drift detection         | SageMaker Model Monitor  |
+
+---
+
+## **🚀 Next Steps**
+- [ ] Deploy the AI model in **AWS SageMaker**
+- [ ] Automate security with **AWS Lambda**
+- [ ] Extend monitoring with **Amazon CloudWatch**
+
+📌 Feel free to **contribute, fork, or open issues** if you have suggestions or improvements.
+
+---
+
+## **📝 Author**
+Developed by **Navpreet** | https://www.linkedin.com/in/navpreetsingh10/
 
