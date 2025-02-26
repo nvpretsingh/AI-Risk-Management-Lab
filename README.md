@@ -77,7 +77,6 @@ python load_sample_dataset.py
 - [ ] Automate security with **AWS Lambda**
 - [ ] Extend monitoring with **Amazon CloudWatch**
 
-📌 Feel free to **contribute, fork, or open issues** if you have suggestions or improvements.
 
 ---
 
