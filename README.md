@@ -13,17 +13,17 @@ This project demonstrates AI risk management practices by:
 ## **📂 Repository Structure**
 ```
 📂 AI-Risk-Management-Lab
-│── 📄 AI_Risk_Management_Lab.ipynb   # Jupyter Notebook with full implementation and documentation
-│── 📄 train_model.py                 # Python script for training AI model
-│── 📄 bias_detection.py               # Python script for bias analysis
-│── 📄 adversarial_attack.py           # Python script for adversarial testing
-│── 📄 data_encryption.py              # Python script for AI data encryption
-│── 📄 model_drift.py                  # Python script for detecting model drift
-│── 📄 evaluate_bias.py                 # Python script for evaluating bias in predictions
-│── 📄 simulate_ai_governance.py       # Python script for AI governance simulation
-│── 📄 load_sample_dataset.py          # Python script for loading dataset
-│── 📄 README.md                        # Documentation (this file)
-│── 📄 requirements.txt                 # Required Python libraries
+│── 📄 AI_Risk.ipynb                                 # Jupyter Notebook with full implementation and documentation
+│── 📄 train_AI.py                                   # Python script for training AI model
+│── 📄 bias_detection.py                             # Python script for bias analysis
+│── 📄 attack_simulation.py                          # Python script for adversarial testing
+│── 📄 data_privacy.py                               # Python script for AI data encryption
+│── 📄 model_drift.py                                # Python script for detecting model drift
+│── 📄 evaluate_bias_in_model_predictions.py         # Python script for evaluating bias in predictions
+│── 📄 simulate_ai_governance.py                     # Python script for AI governance simulation
+│── 📄 load_sample_AI_Dataset.py                     # Python script for loading dataset
+│── 📄 README.md                                     # Documentation (this file)
+│── 📄 requirements.txt                              # Required Python libraries
 ```
 
 ---
