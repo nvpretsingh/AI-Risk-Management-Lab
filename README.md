@@ -31,7 +31,7 @@ This project demonstrates AI risk management practices by:
 ## **🛠 Setup Instructions**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Risk-Management-Lab.git
+git clone https://github.com/nvpretsingh/AI-Risk-Management-Lab.git
 cd AI-Risk-Management-Lab
 ```
 
